@@ -1,2 +1,2 @@
-# C-kamp-
+# .Net kamp-
 murat yücedağ kampı
