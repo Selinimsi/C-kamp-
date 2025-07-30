@@ -1,0 +1,17 @@
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\CSharpegitimKampı301EFProject.exe.config
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\CSharpegitimKampı301EFProject.exe
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\CSharpegitimKampı301EFProject.pdb
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\EntityFramework.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\EntityFramework.xml
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.Form1.resources
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.Properties.Resources.resources
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.csproj.CopyComplete
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.exe
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.pdb
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.FrmLocation.resources
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301EFProject\obj\Debug\CSharpegitimKampı301EFProject.FrmStatics.resources
