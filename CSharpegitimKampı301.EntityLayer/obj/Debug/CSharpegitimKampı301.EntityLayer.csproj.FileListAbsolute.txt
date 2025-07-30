@@ -1,0 +1,12 @@
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\CSharpegitimKampı301.EntityLayer.dll.config
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\CSharpegitimKampı301.EntityLayer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\CSharpegitimKampı301.EntityLayer.pdb
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\obj\Debug\CSharpegitimKampı301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\obj\Debug\CSharpegitimKampı301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\obj\Debug\CSharpegitimKampı301.EntityLayer.csproj.CopyComplete
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\obj\Debug\CSharpegitimKampı301.EntityLayer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.EntityLayer\obj\Debug\CSharpegitimKampı301.EntityLayer.pdb

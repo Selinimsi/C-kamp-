@@ -1,0 +1,17 @@
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\CSharpegitimKampı301.DataAccessLayer.dll.config
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\CSharpegitimKampı301.DataAccessLayer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\CSharpegitimKampı301.DataAccessLayer.pdb
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\CSharpegitimKampı301.EntityLayer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\CSharpegitimKampı301.EntityLayer.pdb
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\CSharpegitimKampı301.EntityLayer.dll.config
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.csproj.CopyComplete
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.dll
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.pdb
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.Migrations.mig1.resources
+C:\Users\selin\Desktop\c#Muratyüceddağ\CSharpegitimKampı301\CSharpegitimKampı301.DataAccessLayer\obj\Debug\CSharpegitimKampı301.DataAccessLayer.csproj.GenerateResource.cache
